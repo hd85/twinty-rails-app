@@ -1,0 +1,52 @@
+User Stories:
+
+MVP:
+
+√ As a user, I want to log in with twitter
+√ As a user, I want to limit tweets on my feed
+√ As a user, I want to be able to tweet
+- As a user, I want to see trending topics
+- As a user, I want to be able to follow/unfollow other twitter users
+- As a user, I want to be able to search twitter
+- As a user, I want to be able to pick which users tweets I limit (not a global rule)
+
+Itertion 2:
+
+√ As a user, I want my tweets limited for me, based on what is interesting
+- As a user, I want to choose keywords that I want to see
+
+Iteration 3:
+- As a user, I want my tweets to show in a hierarchy that I can choose (i.e. monday morning should show football related tweets first)
+√ As a user, I want to use a browser extension on the twitter site to accomplish the same tasks
+
+
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
+
+
